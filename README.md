@@ -1,2 +1,2 @@
-# riskpbi
-Analyzing home credit default risk
+# dashapp
+URL to the dashboard: https://dashapp-wbjf.onrender.com/
