@@ -28,7 +28,8 @@ app.layout = html.Div([
                         y='Percentage Missing',
                         title='application_train',
                         labels={'Percentage Missing': 'Percentage of Missing Values'}
-                    )
+                    ),
+                    style={'height': 550}
                 )
             ]),
             dcc.Tab(label='previous_application', children=[
